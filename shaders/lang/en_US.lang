@@ -1,0 +1,14 @@
+option.MODE=§6Mode
+value.MODE.0=Wireframe
+value.MODE.1=Albedo
+value.MODE.2=Lightmap
+value.MODE.3=View Normal
+value.MODE.4=World Normal
+value.MODE.5=Depth
+value.MODE.6=View Position
+value.MODE.7=Feet Player Position
+value.MODE.8=World Position
+value.MODE.9=View Normal Maps
+value.MODE.10=Test PBR
+
+option.ambientOcclusionLevel=AO
